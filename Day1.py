@@ -1,9 +1,11 @@
-print "Claude Ayitey"
+"Claude Ayitey"
 print 11/2
 print 11.0/2
+print pow (3,27)
+print "NEw"
 print pow ((134533 + 6889980 - 84849), 3)
 friend = pow (4.7,2)
-
+print 45/7.9
 me = pow (9.4,2)
 shortest_dist = pow (4.7,2) + pow (9.4,2)   #adding the power of the perpendicular sides
 from math import sqrt                       #importing the math library
